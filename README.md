@@ -1,7 +1,7 @@
 # Adventure
 
-## Team members
+## Team Members
 
-Keivan Kazemi
-Parisima Teimourzadeh
-Fiona Wong
+- Keivan Kazemi
+- Parisima Teimourzadeh
+- Fiona Wong
