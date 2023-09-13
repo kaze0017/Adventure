@@ -1,3 +1,7 @@
 # Adventure
 
-the continue
+## Team members
+
+Keivan Kazemi
+Parisima Teimourzadeh
+Fiona Wong
