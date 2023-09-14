@@ -2,4 +2,8 @@ You find yourself on a deserted island, surrounded by lush greenery and a serene
 
 What do you do next?
 
+
 Parisima: [Parisima's choice](choice-teim0002.md)
+
+Fiona: [Fiona's choice](choice-wong0328.md)
+

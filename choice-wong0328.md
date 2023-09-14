@@ -1,0 +1,1 @@
+My first instnict is to go find the closest source to water then go from there. 
